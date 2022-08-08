@@ -8,10 +8,10 @@ Unfortunately, one of the posts are not available on web.archive.org. So that th
 
 ## [Original posts (available on web.archive.org)](https://web.archive.org/web/20201025160530/https://github.community/c/github-original-series/github-enterprise-best-practices/36)
 
-1. [Understanding your graphs part 1 - System Health - GitHub Enterprise Best Practices - GitHub Support Community](https://web.archive.org/web/20200922013108/https://github.community/t/understanding-your-graphs-part-1-system-health/13504)
-2. [Understanding your graphs part 2 - Processes - GitHub Enterprise Best Practices - GitHub Support Community](https://web.archive.org/web/20200922015942/https://github.community/t/understanding-your-graphs-part-2-processes/13505)
-3. [Understanding your graphs part 3 - Authentication - GitHub Enterprise Best Practices - GitHub Support Community](https://web.archive.org/web/20200922001140/https://github.community/t/understanding-your-graphs-part-3-authentication/13507)
-4. [Understanding your graphs part 4 - Application servers and background jobs - GitHub Enterprise Best Practices - GitHub Support Community](https://web.archive.org/web/20200824184259/https://github.community/t/understanding-your-graphs-part-4-application-servers-and-background-jobs/13509)
+1. [Understanding your graphs part 1 - System Health](https://web.archive.org/web/20200922013108/https://github.community/t/understanding-your-graphs-part-1-system-health/13504)
+2. [Understanding your graphs part 2 - Processes](https://web.archive.org/web/20200922015942/https://github.community/t/understanding-your-graphs-part-2-processes/13505)
+3. [Understanding your graphs part 3 - Authentication](https://web.archive.org/web/20200922001140/https://github.community/t/understanding-your-graphs-part-3-authentication/13507)
+4. [Understanding your graphs part 4 - Application servers and background jobs](https://web.archive.org/web/20200824184259/https://github.community/t/understanding-your-graphs-part-4-application-servers-and-background-jobs/13509)
 5. [Understanding your graphs part 5 - Network and Storage](https://web.archive.org/web/20200806212435/https://github.community/t/understanding-your-graphs-part-5-network-and-storage/13510) (missing)
-6. [Understanding your graphs part 6 - System services - GitHub Enterprise Best Practices - GitHub Support Community](https://web.archive.org/web/20200710012946/https://github.community/t/understanding-your-graphs-part-6-system-services/13511)
-7. [Understanding your graphs part 7 - Pre-Receive Hooks, Git caching, and Cluster (HA) ping - GitHub Enterprise Best Practices - GitHub Support Community](https://web.archive.org/web/20200922012814/https://github.community/t/understanding-your-graphs-part-7-pre-receive-hooks-git-caching-and-cluster-ha-ping/13512)
+6. [Understanding your graphs part 6 - System services](https://web.archive.org/web/20200710012946/https://github.community/t/understanding-your-graphs-part-6-system-services/13511)
+7. [Understanding your graphs part 7 - Pre-Receive Hooks, Git caching, and Cluster (HA) ping](https://web.archive.org/web/20200922012814/https://github.community/t/understanding-your-graphs-part-7-pre-receive-hooks-git-caching-and-cluster-ha-ping/13512)
