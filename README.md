@@ -1,3 +1,13 @@
+**UPDATE: Now they're officially back and live on GitHub Discussions!**
+
+- [Understanding your GHES graphs part 1 - System Health, Processes, and Authentication · community · Discussion #42146](https://github.com/orgs/community/discussions/42146)
+- [Understanding your GHES graphs part 2 - Application server, background jobs, network, storage, and pre-receive hooks · community · Discussion #43877](https://github.com/orgs/community/discussions/43877)
+
+👇 outdated information
+
+<details>
+<summary>“Understanding your graphs” mini-series for GitHub Enterprise Server administrators, salvaged.</summary>
+
 # “Understanding your graphs” mini-series for GitHub Enterprise Server administrators, salvaged.
 
 Essentially, this repository is a pointer to the [“Understanding your graphs” mini-series](https://web.archive.org/web/20201025160530/https://github.community/c/github-original-series/github-enterprise-best-practices/36) GitHub Community posts written by [@djdefi](https://github.com/djdefi).
@@ -15,3 +25,5 @@ Unfortunately, one of the posts are not available on web.archive.org. So that th
 5. [Understanding your graphs part 5 - Network and Storage](https://web.archive.org/web/20200806212435/https://github.community/t/understanding-your-graphs-part-5-network-and-storage/13510) (missing)
 6. [Understanding your graphs part 6 - System services](https://web.archive.org/web/20200710012946/https://github.community/t/understanding-your-graphs-part-6-system-services/13511)
 7. [Understanding your graphs part 7 - Pre-Receive Hooks, Git caching, and Cluster (HA) ping](https://web.archive.org/web/20200922012814/https://github.community/t/understanding-your-graphs-part-7-pre-receive-hooks-git-caching-and-cluster-ha-ping/13512)
+
+</details>
